@@ -2,7 +2,7 @@
 
 #INTRODUCTION
 
-This test is made on top of my custom C++ OpenGL game engine. I took my old 2D engine code and removed all the things which I didn't need and used it for this project. 
+This game made on top of my custom C++ OpenGL game engine. I took my old 2D engine code and removed all the things which I didn't need and used it for this project. 
 In the process I renamed it as "Minimal2DEngine". 
 
 OLD 2D GAME ENGINE REPO WHICH I RE-USED : https://github.com/NonLinearGuy/Shady-Snake/tree/master/src/Shady%20Snake/Shady%20Snake/shadyengine
